@@ -14,7 +14,6 @@
 <p>Click on "Code", click on HTTPS, click on copy icon to copy the URL of the repository</p>
 <p>Open a terminal in your computer</p>
 <p>Use this command to clone the repository (Use it on the terminal of your computer): <code>git clon REPLACE_FOR_THE_URL_REPOSITORY_YOU_COPIED</code></p>
-<p>cd your project folder</p>
-<p>Use command: docker-compose up</p>
+<p>Use command the following command on your terminal: <code>docker-compose up</code></p>
 <p>Wait to build the container</p>
 <p>Go to http://localhost:9001 <a href="http://localhost:9001/" target="_blank">Or click here</a></p>
